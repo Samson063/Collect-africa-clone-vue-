@@ -1,0 +1,34 @@
+<script setup>
+import NavbarCollect from './components/NavbarCollect.vue'
+import LandingPage from './components/LandingPage.vue'
+</script>
+<template>
+  <NavbarCollect />
+  <LandingPage />
+</template>
+
+<script>
+export default {
+  name: 'App',
+  components: {
+    NavbarCollect,
+    LandingPage,
+  },
+}
+</script>
+
+<style>
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+}
+
+body {
+  background-color: #f5f6fa;
+
+}
+</style>
