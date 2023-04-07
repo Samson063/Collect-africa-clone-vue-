@@ -1,6 +1,5 @@
 <template>
   <div class="container flex items-center justify-center flex-col relative">
-  
     <div
       class="mt-[150px] ml-[150px] flex items-center justify-center flex-col"
     >
