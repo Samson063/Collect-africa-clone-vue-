@@ -1,6 +1,5 @@
 <template>
   <div class="container flex items-center justify-center flex-col relative">
-  
     <div
       class="mt-[150px] ml-[150px] flex items-center justify-center flex-col"
     >
@@ -14,7 +13,7 @@
           height="165"
           viewBox="0 0 258 165"
           fill="none"
-          class="hero-home__content--spiral absolute ml-[-145px] mt-[-15px]"
+          class="hero-home__content--spiral absolute ml-[-145px] mt-[-15px] hidden lg:block"
           data-v-8f8163e8=""
         >
           <path
@@ -37,7 +36,9 @@
           business from anywhere
         </h3>
       </div>
-      <div class="flex items-center justify-center mt-[20px]">
+      <div
+        class="flex items-center justify-center mt-[20px] flex-col lg:flex-row"
+      >
         <button
           class="font-semibold bg-[#5285f2] text-white text-center rounded-[10px] w-[200px] h-[45px] text-[16px] border-0 m-[10px]"
         >
