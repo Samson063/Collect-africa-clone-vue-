@@ -326,9 +326,7 @@
       </div>
     </div>
   </div>
-  <div
-    class=" flex items-center justify-center justify-around mr-[300px]"
-  >
+  <div class="flex items-center justify-center justify-around mr-[300px]">
     <div class="flex flex-row">
       <svg
         class="m-[10px]"

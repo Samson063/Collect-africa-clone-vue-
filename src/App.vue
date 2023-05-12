@@ -31,9 +31,12 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+  border: none;
+  background-color: #f5f6fa;
+  
 }
 
 body {
-  background-color: #f5f6fa;
+    background-color: #f5f6fa;
 }
 </style>

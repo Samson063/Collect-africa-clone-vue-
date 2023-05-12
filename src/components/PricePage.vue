@@ -63,10 +63,7 @@
             We are available on mobile and web
           </h3>
 
-          <img
-            src="../assets/phoneLap.png"
-            class="ml-[100px] mt-[105px] w-[400px]"
-          />
+          <img src="../assets/phoneLap.png" class="mt-[105px] w-[400px]" />
         </div>
         <div
           class="bg-[#5285f2] w-[350px] h-[550px] rounded-[20px] ml-[40px] flex flex-col items-center justify-center"
@@ -90,9 +87,7 @@
     <div
       class="bg-white h-[1000px] w-[1400px] mt-[570px] flex flex-col items-center justify-center"
     >
-      <div
-        class="flex items-center justify-center flex-col mt-[300px] ml-[100px]"
-      >
+      <div class="flex items-center justify-center flex-col mt-[300px]">
         <h3 class="text-[#f5a623] font-bold text-[20px]">WHY COLLECT?</h3>
         <h1 class="text-[45px] text-[#16054e] font-extrabold">
           Grow your
@@ -115,7 +110,7 @@
           />
         </svg>
       </div>
-      <div class="flex flex-row mt-[100px] ml-[100px]">
+      <div class="flex flex-row mt-[100px]">
         <div class="w-[600px] text-start">
           <h2 class="text-[32px] font-bold">
             Collect helps you do more with less
@@ -310,7 +305,7 @@
     </div>
 
     <div
-      class="bg-white w-[1400px] h-[1800px] flex items-center justify-center flex-col"
+      class="bg-white w-screen h-[1800px] flex items-center justify-center flex-col"
     >
       <div class="text-start flex items-center justify-center mt-[100px]">
         <div class="w-[550px]">
@@ -344,13 +339,11 @@
           </div>
         </div>
         <div>
-          <img src="../assets/iPhone.png" class="w-[400px] ml-[100px]" />
+          <img src="../assets/iPhone.png" class="w-[400px]" />
         </div>
       </div>
 
-      <div
-        class="flex items-center justify-center flex-wrap m-[70px] ml-[100px]"
-      >
+      <div class="flex items-center justify-center flex-wrap m-[70px]">
         <div
           class="w-[370px] h-[350px] border-b-[1px] border-r-[1px] flex flex-col items-center justify-center"
         >
@@ -640,7 +633,7 @@
         </div>
       </div>
       <div
-        class="w-[1150px] h-[350px] bg-[#16054e] ml-[50px] rounded-[50px] flex items-center justify-center flex-col"
+        class="w-[85%] h-[350px] bg-[#16054e] ml-[50px] rounded-[50px] flex items-center justify-center flex-col"
       >
         <h1 class="text-[55px] text-white font-bold">Ready to Collect?</h1>
         <h3 class="text-white text-[21px] font-normal mt-[]">

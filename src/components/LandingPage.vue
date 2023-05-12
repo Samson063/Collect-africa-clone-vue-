@@ -1,8 +1,8 @@
 <template>
-  <div class="container flex items-center justify-center flex-col relative">
-    <div
-      class="mt-[150px] ml-[150px] flex items-center justify-center flex-col"
-    >
+  <div
+    class="container flex items-center justify-center flex-col relative w-screen"
+  >
+    <div class="mt-[150px] flex items-center justify-center flex-col">
       <h1 class="text-6xl font-bold text-black">
         Global <span class="text-[#f5a623]">payments</span> made easy
       </h1>
@@ -48,9 +48,7 @@
           >Book a demo</a
         >
       </div>
-      <div
-        class="flex align-center justify-between m-[100px] mt-[1150px] absolute"
-      >
+      <div class="flex align-center justify-between mt-[1150px] absolute">
         <div
           class="bg-[#16054e] w-[500px] h-[550px] rounded-[20px] flex flex-col items-center justify-center"
         >
@@ -67,7 +65,7 @@
 
           <img
             src="../assets/phoneLap.png"
-            class="ml-[100px] mt-[105px] w-[400px]"
+            class="ml-[0px] mt-[105px] w-[400px]"
           />
         </div>
         <div
@@ -90,10 +88,10 @@
       </div>
     </div>
     <div
-      class="bg-white h-[1000px] w-[1400px] mt-[570px] flex flex-col items-center justify-center"
+      class="bg-white h-[1000px] w-screen mt-[570px] ml-[42px] flex flex-col items-center justify-center"
     >
       <div
-        class="flex items-center justify-center flex-col mt-[300px] ml-[100px]"
+        class="flex items-center justify-center flex-col mt-[300px] ml-[0px]"
       >
         <h3 class="text-[#f5a623] font-bold text-[20px]">WHY COLLECT?</h3>
         <h1 class="text-[45px] text-[#16054e] font-extrabold">
@@ -117,7 +115,7 @@
           />
         </svg>
       </div>
-      <div class="flex flex-row mt-[100px] ml-[100px]">
+      <div class="flex flex-row mt-[100px] ml-[0px]">
         <div class="w-[600px] text-start">
           <h2 class="text-[32px] font-bold">
             Collect helps you do more with less
@@ -276,7 +274,7 @@
       </div>
     </div>
 
-    <div class="flex mt-[200px] m h-[700px] justify-between justify-center">
+    <div class="flex mt-[200px] h-[700px] justify-between justify-center">
       <div>
         <img src="../assets/card.png" class="w-[550px] mr-[50px]" />
       </div>
@@ -312,7 +310,7 @@
     </div>
 
     <div
-      class="bg-white w-[1400px] h-[1800px] flex items-center justify-center flex-col"
+      class="bg-white w-screen h-[2100px] ml-[42px] flex items-center justify-center flex-col"
     >
       <div class="text-start flex items-center justify-center mt-[100px]">
         <div class="w-[550px]">
@@ -350,9 +348,12 @@
         </div>
       </div>
 
-      <div
-        class="flex items-center justify-center flex-wrap m-[70px] ml-[100px]"
-      >
+      
+      <div class="flex items-center justify-center flex-wrap m-[100px] ml-[100px]">
+        <h1 class="text-[36px] text-[#16054e] font-bold m-[100px]">
+          What you get with a Collect Account
+        </h1>
+
         <div
           class="w-[370px] h-[350px] border-b-[1px] border-r-[1px] flex flex-col items-center justify-center"
         >
@@ -642,10 +643,10 @@
         </div>
       </div>
       <div
-        class="w-[1150px] h-[350px] bg-[#16054e] ml-[50px] rounded-[50px] flex items-center justify-center flex-col"
+        class="w-[85%] h-[350px] bg-[#16054e] ml-[50px] rounded-[50px] flex items-center justify-center flex-col"
       >
         <h1 class="text-[55px] text-white font-bold">Ready to Collect?</h1>
-        <h3 class="text-white text-[21px] font-normal mt-[]">
+        <h3 class="text-white text-[21px] font-normal">
           Take control of your business and payments
         </h3>
         <div class="flex items-center justify-center mt-[20px]">
