@@ -88,10 +88,10 @@
       </div>
     </div>
     <div
-      class="bg-white h-[1000px] w-screen mt-[570px] ml-[42px] flex flex-col items-center justify-center"
+      class="bg-white h-[1100px] w-screen mt-[570px] ml-[42px] flex flex-col items-center justify-center"
     >
       <div
-        class="flex items-center justify-center flex-col mt-[300px] ml-[0px]"
+        class="flex items-center justify-center flex-col mt-[350px] ml-[0px]"
       >
         <h3 class="text-[#f5a623] font-bold text-[20px]">WHY COLLECT?</h3>
         <h1 class="text-[45px] text-[#16054e] font-extrabold">
