@@ -28,8 +28,7 @@ export default {
 
 body {
   background-color: aqua;
-  display: flex;
-  border: 5px solid red;
+  border: 5px solid green;
 }
 
 </style>

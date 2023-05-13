@@ -1,6 +1,6 @@
 <template>
   <div
-    class="container flex items-center justify-center flex-col relative w-screen"
+    class="container flex items-center justify-center flex-col relative w-full"
   >
     <div class="mt-[150px] flex items-center justify-center flex-col border-4">
       <h1 class="text-6xl font-bold text-black">
@@ -88,7 +88,7 @@
       </div>
     </div>
     <div
-      class="bg-white h-[1100px] w-screen border-4 mt-[570px] ml-[42px] flex flex-col items-center justify-center"
+      class="bg-white h-[1100px] w-full border-4 mt-[570px] pl-[42px] flex flex-col items-center justify-center"
     >
       <div
         class="flex items-center justify-center flex-col mt-[350px] ml-[0px]"
@@ -310,7 +310,7 @@
     </div>
 
     <div
-      class="bg-white border-purple-700 border-4 h-[2100px] ml-[42px] w-screen flex items-center justify-center flex-col"
+      class="bg-white border-purple-700 border-4 h-[2100px] pl-[42px] w-full flex items-center justify-center flex-col"
     >
       <div class="text-start flex items-center justify-center mt-[100px]">
         <div class="w-[550px]">
