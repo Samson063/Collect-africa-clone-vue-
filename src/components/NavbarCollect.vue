@@ -1,8 +1,8 @@
 <template>
   <nav
-    class="bg-[#f5f6fa] border-gray-200 pl-5 sm:px-4 py-2.5 mt-[-50px] flex items-center justify-between ml-[42px]"
+    class="bg-[#f5f6fa] border-gray-700 pl-5 sm:px-4 py-2.5 object-fill flex items-center justify-between border-4 "
   >
-    <div>
+    <div class="border-4">
       <a href="javascript:void(0)" class="flex items-center logo">
         <svg
           xmlns="http://www.w3.org/2000/svg"
