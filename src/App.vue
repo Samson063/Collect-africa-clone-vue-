@@ -27,9 +27,9 @@ export default {
 
 
 body {
-  background-color: aqua;
+  background-color: #f5f6fa;
   display: flex;
-  border: 5px solid red;
+  border: none;
 }
 
 </style>
