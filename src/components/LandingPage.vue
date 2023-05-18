@@ -2,7 +2,7 @@
   <div
     class="container flex items-center justify-center flex-col relative w-full"
   >
-    <div class="mt-[150px] flex items-center justify-center flex-col border-4">
+    <div class="mt-[150px] flex items-center justify-center flex-col ">
       <h1 class="text-6xl font-bold text-black">
         Global <span class="text-[#f5a623]">payments</span> made easy
       </h1>
@@ -348,9 +348,9 @@
         </div>
       </div>
 
-         <h1 class="text-[36px] text-[#16054e] font-bold m-[100px]">
-          What you get with a Collect Account
-        </h1>
+      <h1 class="text-[36px] text-[#16054e] font-bold m-[100px]">
+        What you get with a Collect Account
+      </h1>
       <div
         class="flex items-center justify-center flex-wrap ml-[100px] mr-[100px] mb-[50px]"
       >

@@ -27,8 +27,8 @@ export default {
 
 
 body {
-  background-color: aqua;
-  border: 5px solid green;
+  background-color: #f5f6fa;
+  border: none;
 }
 
 </style>
