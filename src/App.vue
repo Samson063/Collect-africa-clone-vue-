@@ -28,7 +28,6 @@ export default {
 
 body {
   background-color: #f5f6fa;
-  display: flex;
   border: none;
 }
 

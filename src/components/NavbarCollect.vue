@@ -1,6 +1,6 @@
 <template>
   <nav
-    class="bg-[#f5f6fa] border-gray-700 pl-5 sm:px-4 py-2.5 object-fill flex items-center justify-between border-4 "
+    class="bg-[#f5f6fa] border-gray-700 pl-5 sm:px-4 py-2.5 object-fill w-full flex items-center justify-between"
   >
     <div class="border-4">
       <a href="javascript:void(0)" class="flex items-center logo">
