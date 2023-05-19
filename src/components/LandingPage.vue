@@ -88,7 +88,7 @@
       </div>
     </div>
     <div
-      class="bg-white h-[1100px] w-full border-4 mt-[570px] pl-[42px] flex flex-col items-center justify-center"
+      class="bg-white h-[1100px] w-screen  mt-[570px] pl-[42px] flex flex-col items-center justify-center"
     >
       <div
         class="flex items-center justify-center flex-col mt-[350px] ml-[0px]"
@@ -274,11 +274,11 @@
       </div>
     </div>
 
-    <div class="flex mt-[200px] h-[700px] justify-between justify-center">
+    <div class="flex mt-[100px] h-[500px] w-screen bg-[#f5f6fa] justify-around justify-center">
       <div>
-        <img src="../assets/card.png" class="w-[550px] mr-[50px]" />
+        <img src="../assets/card.png" class="w-[550px] " />
       </div>
-      <div class="w-[500px] text-start ml-[50px]">
+      <div class="w-[500px] text-start">
         <h2 class="text-[50px] text-[#0d1a47] font-bold">
           Global payments? No problem
         </h2>
@@ -310,7 +310,7 @@
     </div>
 
     <div
-      class="bg-white border-purple-700 border-4 h-[2100px] pl-[42px] w-full flex items-center justify-center flex-col"
+      class="bg-white h-[2100px] pl-[42px] w-screen flex items-center justify-center flex-col"
     >
       <div class="text-start flex items-center justify-center mt-[100px]">
         <div class="w-[550px]">

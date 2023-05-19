@@ -29,6 +29,9 @@ export default {
 body {
   background-color: #f5f6fa;
   border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 </style>
